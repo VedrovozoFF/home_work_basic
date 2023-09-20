@@ -1,3 +1,3 @@
-module github.com/fixme_my_friend/hw03_chessboard
+module main.go
 
-go 1.20
+go 1.21.0
